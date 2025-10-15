@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Benja</h1>
-<h3 align="center">A passionate and beginner backend/ frontend developer from Spain</h3>
+<h3 align="center">I am currently learning how to program. My first programming language is Java, and I am enthusiastic about improving my skills in it.</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learnin **Java**
 
+<h3 align="left">Connect with me: I`m from Spain.</h3>
+
+- 👨‍💻 I am also eager to learn more programming languages and am actively working on expanding my knowledge. This repository will showcase my progress, projects, and experiments as I grow as a programmer.
+
+Thank you for visiting and following my learning journey!
 <p align="left">
 </p>
 
