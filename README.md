@@ -10,17 +10,12 @@
 
 - 👨‍💻 I am also eager to learn more programming languages and am actively working on expanding my knowledge. This repository will showcase my progress, projects, and experiments as I grow as a programmer.
 
-Thank you for visiting and following my learning journey! 
 <br clear="both">
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=true&text=Thank%20you%20for%20visiting%20and%20following%20my%20learning%20journey!&fontSize=24&fontColor=000000&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
 </div>
 
-
-<p align="left"></p>
-
-<div align="center">
+<div align="">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=devbenhr.devbenhr&"  />
 </div>
 
