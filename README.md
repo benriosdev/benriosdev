@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Benja</h1>
 <h3 align="center">I am currently learning how to program. My first programming language is Java, and I am enthusiastic about improving my skills in it.</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I am currently studying Web Application Development.
 
 <h3 align="left">Connect with me: I`m from Spain.</h3>
 
