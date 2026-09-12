@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="52" viewBox="0 0 240 52" role="img" aria-label="APRENDER">
+  <rect x="1" y="1" width="238" height="50" rx="13" fill="#FFF3E8" stroke="#FFDCC1" stroke-width="1.5"/>
+  <circle cx="31" cy="26" r="17" fill="#E85D12" opacity="0.10"/>
+  <g fill="none" stroke="#E85D12" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M28 14c-5 0-8 3.5-8 8 0 2.7 1.2 4.2 3 5.5V31h10v-3.5c1.8-1.3 3-2.8 3-5.5 0-4.5-3-8-8-8zM25 34h6M25.5 37h5"/>
+  </g>
+  <text x="58" y="31" fill="#E85D12" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif"
+        font-size="13" font-weight="700" letter-spacing=".4">APRENDER</text>
+  <circle cx="211" cy="26" r="15" fill="#E85D12" opacity="0.08"/>
+  <path d="M207 20l6 6-6 6" fill="none" stroke="#E85D12" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
