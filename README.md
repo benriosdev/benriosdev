@@ -1,7 +1,5 @@
 <div align="center">
-
-<img width="auto" height="auto" alt="Top banner" src="./images/top-img.png" />
-
+  <img src="./images/top-img.png" alt="Top banner" />
 </div>
 
 ## 🧠 Sobre mí
@@ -28,7 +26,9 @@
 
 <br/>
 
-<img width="100%" alt="Tech Stack" src="./images/tech-stack.png" />
+<img src="./images/tech-stack.png" alt="Tech Stack" />
+
+<br/>
 
 ## 🚀 Proyectos Destacados
 
