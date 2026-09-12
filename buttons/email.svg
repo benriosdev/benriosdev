@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="52" viewBox="0 0 240 52" role="img" aria-label="EMAIL">
+  <rect x="0" y="0" width="240" height="52" rx="13" fill="#FFF3F2" stroke="#FFD7D3" stroke-width="1.5"/>
+  <circle cx="31" cy="26" r="17" fill="#D94B3D" opacity=".08"/>
+  <g fill="none" stroke="#D94B3D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    
+        <rect x="19" y="18.5" width="24" height="15" rx="3"/>
+        <path d="M20 20.5l11 8.2 11-8.2"/>
+        
+  </g>
+  <text x="58" y="30.5" fill="#D94B3D" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif"
+        font-size="13" font-weight="700" letter-spacing=".45">EMAIL</text>
+  <circle cx="211" cy="26" r="15" fill="#D94B3D" opacity=".07"/>
+  <path d="M208 20.5l5.5 5.5-5.5 5.5" fill="none" stroke="#D94B3D" stroke-width="2.1"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="52" viewBox="0 0 240 52" role="img" aria-label="PORTFOLIO">
+  <rect x="0" y="0" width="240" height="52" rx="13" fill="#F3F6FA" stroke="#D9E2EC" stroke-width="1.5"/>
+  <circle cx="31" cy="26" r="17" fill="#334155" opacity=".08"/>
+  <g fill="none" stroke="#334155" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    
+        <circle cx="31" cy="26" r="9.5"/>
+        <path d="M21.5 26h19M31 16.5c3.1 2.5 4.6 5.7 4.6 9.5S34.1 33 31 35.5M31 16.5c-3.1 2.5-4.6 5.7-4.6 9.5S27.9 33 31 35.5"/>
+        
+  </g>
+  <text x="58" y="30.5" fill="#334155" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif"
+        font-size="13" font-weight="700" letter-spacing=".45">PORTFOLIO</text>
+  <circle cx="211" cy="26" r="15" fill="#334155" opacity=".07"/>
+  <path d="M208 20.5l5.5 5.5-5.5 5.5" fill="none" stroke="#334155" stroke-width="2.1"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
