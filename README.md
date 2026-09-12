@@ -20,9 +20,17 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+<a href="https://benrios.dev">
+  <img src="./buttons/portfolio.svg" alt="Portfolio">
+</a>
+
+<a href="https://www.linkedin.com/in/benjariosdev/">
+  <img src="./buttons/linkedin.svg" alt="LinkedIn">
+</a>
+
+<a href="https://benrios.dev/faq/#contacto">
+  <img src="./buttons/email.svg" alt="Email">
+</a>
 
 </div>
 
