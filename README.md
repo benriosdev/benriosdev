@@ -64,7 +64,6 @@ Portfolio personal donde muestro mi experiencia, proyectos y perfil Front-End + 
 `HTML` `CSS` `JavaScript` `Responsive Design`
 
 <a href="https://benrios.dev"><img src="./buttons/live-demo.svg" alt="Demo"></a>
-<a href="https://benrios.dev"><img src="./buttons/repositorio.svg" alt="Repositorio"></a>
 
 </td>
 <td width="50%" valign="top">
