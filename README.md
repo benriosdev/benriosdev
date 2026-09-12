@@ -28,7 +28,7 @@
 
 ## 🛠️ Mis Tecnologías / Stack
 
-<img src="./images/tech-stack.png" alt="Tech Stack" style="border-radius: 10px;" />
+<img src="./images/tech-stack.png" alt="Tech Stack" />
 
 <br/>
 
