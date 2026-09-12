@@ -24,7 +24,7 @@
   <a href="https://benrios.dev/faq/#contacto"><img src="./buttons/email.svg" alt="Email"></a>
 </div>
 
-<br/>
+<br/><br/>
 
 <img src="./images/tech-stack.png" alt="Tech Stack" />
 
