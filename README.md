@@ -20,9 +20,9 @@
 
 <div align="center">
   <a href="https://benrios.dev"><img src="./buttons/portfolio.svg" alt="Portfolio"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/benjariosdev/"><img src="./buttons/linkedin.svg" alt="LinkedIn"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://benrios.dev/faq/#contacto"><img src="./buttons/email.svg" alt="Email"></a>
 </div>
 
