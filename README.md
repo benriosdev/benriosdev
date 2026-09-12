@@ -24,7 +24,7 @@
   <a href="https://benrios.dev/faq/#contacto"><img src="./buttons/email.svg" alt="Email"></a>
 </div>
 
-<br/><br/>
+<br/>
 
 <img src="./images/tech-stack.png" alt="Tech Stack" />
 
@@ -106,6 +106,6 @@ Proyecto en desarrollo para centralizar documentación y recursos de FP.
 <div align="center">
 
 ### 🙌 ¡Gracias por visitar mi perfil y seguir mi progreso!
-![Visitors](https://img.shields.io/badge/visitors-668-blue?style=flat-square)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=benriosdev.benriosdev&theme=dark)
 
 </div>
