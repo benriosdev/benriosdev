@@ -106,6 +106,6 @@ Proyecto en desarrollo para centralizar documentación y recursos de FP.
 <div align="center">
 
 ### 🙌 ¡Gracias por visitar mi perfil y seguir mi progreso!
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=benriosdev.benriosdev&theme=dark)
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=devbenhr.devbenhr&"  />
 
 </div>
