@@ -1,6 +1,6 @@
 <div align="center">
-  
-<img width="auto" height="auto" alt="githubreadmenobg" src="https://github.com/user-attachments/assets/bec7d2a5-da98-4f02-95cb-c5b6d1a13ef2" />
+
+<img width="auto" height="auto" alt="Top banner" src="./images/top-banner.png" />
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <br/>
 
-<img width="100%" alt="techstackgithub" src="https://github.com/user-attachments/assets/1caa6b53-3733-4048-8e62-2ffa5f2c1190" />
+<img width="100%" alt="Tech Stack" src="./images/tech-stack.png" />
 
 ## 🚀 Proyectos Destacados
 
