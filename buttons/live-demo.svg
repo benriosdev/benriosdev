@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="52" viewBox="0 0 240 52" role="img" aria-label="LIVE DEMO">
+  <rect x="1" y="1" width="238" height="50" rx="13" fill="#EEF6FF" stroke="#CFE2FF" stroke-width="1.5"/>
+  <g fill="none" stroke="#1769D1" stroke-width="2.15" stroke-linecap="round" stroke-linejoin="round">
+    
+      <rect x="19" y="19" width="22" height="22" rx="3"/>
+      <path d="M19 25h22"/>
+      <circle cx="23" cy="22" r="1" fill="#1769D1" stroke="none"/>
+      <circle cx="27" cy="22" r="1" fill="#1769D1" stroke="none"/>
+    
+  </g>
+  <text x="58" y="30.5"
+        fill="#1769D1"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif"
+        font-size="13" font-weight="700" letter-spacing=".4">LIVE DEMO</text>
+  <circle cx="211" cy="26" r="15" fill="#1769D1" fill-opacity=".065"/>
+  <path d="M208 20.5l5.5 5.5-5.5 5.5"
+        fill="none" stroke="#1769D1" stroke-width="2.1"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

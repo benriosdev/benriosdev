@@ -23,11 +23,11 @@
 <a href="https://benrios.dev">
   <img src="./buttons/portfolio.svg" alt="Portfolio">
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/benjariosdev/">
   <img src="./buttons/linkedin.svg" alt="LinkedIn">
 </a>
-
+&nbsp;
 <a href="https://benrios.dev/faq/#contacto">
   <img src="./buttons/email.svg" alt="Email">
 </a>
@@ -49,7 +49,7 @@ Compañero de estudios para alumnos de FP Online: gestión de PACs, videotutorí
 
 `React` `Next.js` `TypeScript` `Tailwind CSS` `Supabase`
 
-[![Visitar](https://img.shields.io/badge/Visitar-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+<a href="https://mifp.dev"><img src="./buttons/visitar.svg" alt="Visitar"></a>
 
 </td>
 <td width="50%" valign="top">
@@ -59,7 +59,7 @@ Ante la falta de material práctico actualizado para estudiantes de DAW, creé u
 
 `JavaScript` `HTML` `CSS`
 
-[![Probar tests](https://img.shields.io/badge/Probar_tests-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+<a href="https://benrios.dev/tests/"><img src="./buttons/probar-tests.svg" alt="Probar tests"></a>
 
 </td>
 </tr>
@@ -71,8 +71,8 @@ Portfolio personal donde muestro mi experiencia, proyectos y perfil Front-End + 
 
 `HTML` `CSS` `JavaScript` `Responsive Design`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+<a href="https://benrios.dev"><img src="./buttons/live-demo.svg" alt="Demo"></a>
+<a href="https://benrios.dev"><img src="./buttons/repositorio.svg" alt="Repositorio"></a>
 
 </td>
 <td width="50%" valign="top">
