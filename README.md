@@ -1,24 +1,114 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-<h1 align="center">Hi 👋, I'm Benja</h1>
-<h3 align="center">I am currently learning how to program. My first programming language is Java, and I am enthusiastic about improving my skills in it.</h3>
+<div align="center">
+  
+<img width="auto" height="auto" alt="githubreadmenobg" src="https://github.com/user-attachments/assets/bec7d2a5-da98-4f02-95cb-c5b6d1a13ef2" />
 
-- 🌱 I am currently studying Web Application Development.
-
-<h3 align="left">Connect with me: I`m from Spain.</h3>
-
-- 👨‍💻 I am also eager to learn more programming languages and am actively working on expanding my knowledge. This repository will showcase my progress, projects, and experiments as I grow as a programmer.
-
-<br clear="both">
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=true&text=Thank%20you%20for%20visiting%20and%20following%20my%20learning%20journey!&fontSize=24&fontColor=000000&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
-</div>
-
-<div align="">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=devbenhr.devbenhr&"  />
 </div>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a></p>
+## 🧠 Sobre mí
+
+
+- 🎓 Hey 👋🏼, soy Benja. Actualmente estudio Desarrollo de **Aplicaciones Web (DAW)** y estoy convirtiendo el aprendizaje en proyectos reales.
+
+- ☕ Mi punto de partida es Java, donde estoy construyendo fundamentos sólidos de programación y POO.
+
+- 🌐 Poco a poco estoy ampliando progresivamente mis conocimientos en desarrollo web, explorando frontend, bases de datos y herramientas como **React, Astro, TypeScript y Next.js**, con la vista puesta en el desarrollo full-stack.
+
+- 🧩 No me interesa únicamente aprender tecnologías. Me interesa entender cómo encajan las piezas y ser capaz de construir algo con ellas.
+
+- 🛠️ Este perfil documenta ese camino: desde pequeños ejercicios hasta proyectos cada vez más completos.
+
+<br/>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+</div>
+
+<br/>
+
+<img width="1536" height="1024" alt="techstackgithub" src="https://github.com/user-attachments/assets/1caa6b53-3733-4048-8e62-2ffa5f2c1190" />
+
+## 🚀 Proyectos Destacados
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 MiFP
+Compañero de estudios para alumnos de FP Online: gestión de PACs, videotutorías, notas y recursos con dashboard en tiempo real. Proyecto en colaboración.
+
+`React` `Next.js` `TypeScript` `Tailwind CSS` `Supabase`
+
+[![Visitar](https://img.shields.io/badge/Visitar-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 Tests Interactivos App
+Ante la falta de material práctico actualizado para estudiantes de DAW, creé una app web interactiva para hacer tests y simulacros de examen, facilitando el estudio y la autoevaluación.
+
+`JavaScript` `HTML` `CSS`
+
+[![Probar tests](https://img.shields.io/badge/Probar_tests-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Portfolio Web
+Portfolio personal donde muestro mi experiencia, proyectos y perfil Front-End + UI/UX.
+
+`HTML` `CSS` `JavaScript` `Responsive Design`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 FP Docs
+Proyecto en desarrollo para centralizar documentación y recursos de FP.
+
+`Astro` `TypeScript` `CSS Native`
+
+🚧 *En desarrollo — aún no publicado*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📖 Proyectos de Aprendizaje
+
+| Proyecto | Descripción | Tech | Acceso |
+|:---|:---|:---|:---:|
+| **Aprendiendo Git y GitHub** | Guía completa de control de versiones, repos y colaboración | `Git` `GitHub` | <a href="URL_GUIA_GIT"><img src="./buttons/abrir-guia.svg" alt="Abrir guía"></a> |
+| **Base de datos de Estudiantes** | Proyecto de BD relacional: diseño de tablas, relaciones y modelo E-R | `MySQL` `SQL` | <a href="URL_MODELO_ER"><img src="./buttons/ver-modelo.svg" alt="Ver modelo ER"></a> |
+| **Java Fundamentos Básicos** | App educativa para aprender Java desde cero con ejercicios interactivos | `Java` `Educativo` | <a href="URL_JAVA"><img src="./buttons/ver-proyecto.svg" alt="Ver proyecto"></a> |
+| **Piedra, Papel o Tijera** | Juego clásico en Java con lógica de partida y puntuación en tiempo real | `Java` | <a href="URL_PPT"><img src="./buttons/jugar.svg" alt="Jugar"></a> |
+| **Guía interactiva de JavaScript** | Guía de fundamentos de JS, desde variables hasta el DOM y eventos | `JavaScript` `HTML` `CSS` | <a href="URL_GUIA_JS"><img src="./buttons/aprender.svg" alt="Aprender"></a> |
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=benriosdev&theme=tokyonight&hide_border=true" width="85%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🙌 ¡Gracias por visitar mi perfil y seguir mi progreso!
+![Visitors](https://img.shields.io/badge/visitors-668-blue?style=flat-square)
+
+</div>
