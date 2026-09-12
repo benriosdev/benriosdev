@@ -4,9 +4,7 @@
 
 </div>
 
-
 ## 🧠 Sobre mí
-
 
 - 🎓 Hey 👋🏼, soy Benja. Actualmente estudio Desarrollo de **Aplicaciones Web (DAW)** y estoy convirtiendo el aprendizaje en proyectos reales.
 
