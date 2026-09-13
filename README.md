@@ -75,7 +75,7 @@ Compañero de estudios para alumnos de FP Online: gestión de PACs, videotutorí
 
 ### 📝 Tests Interactivos App
 
-Ante la falta de material para estudiantes de FP, creé una app web interactiva de tests de exámenes, facilitando el estudio y la autoevaluación.
+Ante la falta de material didáctico actualizado para estudiantes de FP, creé una app web interactiva de tests de exámenes, facilitando el estudio y la autoevaluación.
 
 `JavaScript` `HTML` `CSS`
 
