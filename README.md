@@ -61,7 +61,7 @@ Compañero de estudios para alumnos de FP Online: gestión de PACs, videotutorí
 
 `React` `Next.js` `TypeScript` `Tailwind CSS` `Supabase`
 
-<a href="https://github.com/benriosdev/mifp-web">
+<a href="https://github.com/ProyectoBS-Dev/mifp-web">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./buttons/repositorio-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./buttons/repositorio.svg">
@@ -75,11 +75,11 @@ Compañero de estudios para alumnos de FP Online: gestión de PACs, videotutorí
 
 ### 📝 Tests Interactivos App
 
-Ante la falta de material práctico actualizado para estudiantes de DAW, creé una app web interactiva para hacer tests y simulacros de examen, facilitando el estudio y la autoevaluación.
+Ante la falta de material para estudiantes de FP, creé una app web interactiva de tests de exámenes, facilitando el estudio y la autoevaluación.
 
 `JavaScript` `HTML` `CSS`
 
-<a href="https://github.com/benriosdev/tests-interactivos-app">
+<a href="https://benrios.dev/tests/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./buttons/probar-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./buttons/probar.svg">
