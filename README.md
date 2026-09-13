@@ -26,37 +26,11 @@
 <br/>
 
 <table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://benrios.dev">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./buttons/portfolio-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="./buttons/portfolio.svg">
-          <img src="./buttons/portfolio.svg" width="250" alt="Portfolio">
-        </picture>
-      </a>
-    </td>
-
-    <td align="center">
-      <a href="https://www.linkedin.com/in/benriosdev/">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./buttons/linkedin-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="./buttons/linkedin.svg">
-          <img src="./buttons/linkedin.svg" width="250" alt="LinkedIn">
-        </picture>
-      </a>
-    </td>
-
-    <td align="center">
-      <a href="https://benrios.dev/faq/#contacto">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./buttons/email-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="./buttons/email.svg">
-          <img src="./buttons/email.svg" width="250" alt="Email">
-        </picture>
-      </a>
-    </td>
-  </tr>
+<tr>
+<td><a href="https://benrios.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/portfolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/portfolio.svg"><img src="./buttons/portfolio.svg" width="200" alt="Portfolio"></picture></a></td>
+<td><a href="https://www.linkedin.com/in/benriosdev/"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/linkedin.svg"><img src="./buttons/linkedin.svg" width="200" alt="LinkedIn"></picture></a></td>
+<td><a href="https://benrios.dev/faq/#contacto"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/email-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/email.svg"><img src="./buttons/email.svg" width="200" alt="Email"></picture></a></td>
+</tr>
 </table>
 
 <br/>
