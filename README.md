@@ -1,14 +1,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/benriosdev/benriosdev/main/images/top-img.png"
+    srcset="https://raw.githubusercontent.com/benriosdev/benriosdev/main/images/top-img-dark.png"
   >
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/benriosdev/benriosdev/main/images/top-img-white.png"
+    srcset="https://raw.githubusercontent.com/benriosdev/benriosdev/main/images/top-img-light.png"
   >
   <img
-    src="https://raw.githubusercontent.com/benriosdev/benriosdev/main/images/top-img-white.png"
+    src="https://raw.githubusercontent.com/benriosdev/benriosdev/main/images/top-img-light.png"
     alt="Perfil de benriosdev"
   >
 </picture>
