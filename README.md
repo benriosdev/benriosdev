@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/top-img.png" alt="Top banner" />
+  <img src="./images/top-img-white.png" alt="Top banner" />
 </div>
 
 ## 🧠 Sobre mí
