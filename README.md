@@ -87,7 +87,7 @@ Proyecto en desarrollo para centralizar documentación y recursos de FP.
 
 | Proyecto | Descripción | Tech | Acceso |
 |:---|:---|:---|:---:|
-| **Aprendiendo Git y GitHub** | Guía completa de control de versiones, repos y colaboración | `Git` `GitHub` | <a href="https://benrios.dev/git-github/"><img src="./buttons/abrir-guia.svg" alt="Abrir guía"></a> |
+| **Aprendiendo Git y GitHub** | Guía completa de control de versiones, repos y colaboración | `Git` `GitHub` | <a href="https://benrios.dev/hola-git/git/"><img src="./buttons/abrir-guia.svg" alt="Abrir guía"></a> |
 | **Base de datos de Estudiantes** | Proyecto de BD relacional: diseño de tablas, relaciones y modelo E-R | `MySQL` `SQL` | <a href="https://benrios.dev/modelo-er/"><img src="./buttons/ver-modelo.svg" alt="Ver modelo ER"></a> |
 | **Java Fundamentos Básicos** | App educativa para aprender Java desde cero con ejercicios interactivos | `Java` `Educativo` | <a href="https://benrios.dev/fundamentos-java/"><img src="./buttons/ver-proyecto.svg" alt="Ver proyecto"></a> |
 | **Guía interactiva de JavaScript** | Guía de fundamentos de JS, desde variables hasta el DOM y eventos | `JavaScript` `HTML` `CSS` | <a href="https://benrios.dev/javascript/"><img src="./buttons/aprender.svg" alt="Aprender"></a> |
