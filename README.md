@@ -97,7 +97,7 @@ Proyecto en desarrollo para centralizar documentación y recursos de FP.
 | **Base de datos de Estudiantes** | Proyecto de BD relacional: diseño de tablas, relaciones y modelo E-R | `BBDD` `Educativo` | <a href="https://benrios.dev/modelo-er/"><img src="./buttons/ver-modelo.svg" alt="Ver modelo ER"></a> |
 | **Java Fundamentos Básicos** | App educativa para aprender Java desde cero con ejercicios interactivos | `Java` `Educativo` | <a href="https://benrios.dev/fundamentos-java/"><img src="./buttons/ver-proyecto.svg" alt="Ver proyecto"></a> |
 | **Guía interactiva de JavaScript** | Guía de fundamentos de JS, desde variables hasta el DOM y eventos | `JavaScript` `HTML` `CSS` `Guía` | <a href="https://benrios.dev/javascript/"><img src="./buttons/aprender.svg" alt="Aprender"></a> |
-| **Piedra, Papel o Tijera** | Juego clásico en Java con lógica de partida y puntuación en tiempo real | `Java` `Ejercicio Curso` | <a href="https://benrios.dev/piedra-papel-tijera-java/"><img src="./buttons/jugar.svg" alt="Jugar"></a> |
+| **Piedra, Papel o Tijera** | Juego clásico en Java con lógica de partida y puntuación en tiempo real | `Java` `Ejercicios` | <a href="https://benrios.dev/piedra-papel-tijera-java/"><img src="./buttons/jugar.svg" alt="Jugar"></a> |
 
 <br/>
 
