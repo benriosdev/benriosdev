@@ -37,7 +37,11 @@
 
 ## 🛠️ Mis Tecnologías / Stack
 
-<img src="./images/tech-stack.png" alt="Tech Stack" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/images/tech-stack-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/images/tech-stack-light.png">
+  <img src="/images/tech-stack-light.png" alt="Tech Stack de benriosdev">
+</picture>
 
 ## 🤖 IA & herramientas de desarrollo
 
