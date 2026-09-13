@@ -6,11 +6,11 @@
 
 - 🎓 Hey 👋🏼, soy Benja. **Técnico en Instalaciones de Telecomunicaciones** y actualmente estudio **Desarrollo de Aplicaciones Web (DAW)**.
 
-- 💼 Mi experiencia en tecnología, reparación de dispositivos y atención al cliente me ha dado una visión práctica de las necesidades de los usuarios y de cómo la tecnología puede resolver problemas reales.
+- 💼 Mi experiencia en **tecnología, reparación de dispositivos y atención al cliente** me ha dado una visión práctica de las necesidades de los usuarios y de cómo la tecnología puede resolver **problemas reales**.
 
-- ☕ Mi punto de partida es Java, donde estoy construyendo fundamentos sólidos de programación y POO.
+- ☕ Mi punto de partida es **Java**, donde estoy construyendo fundamentos sólidos de **programación y POO**.
 
-- ✨ A partir de ahí, estoy ampliando progresivamente mis conocimientos en desarrollo web, explorando tecnologías como **React, Astro, TypeScript y Next.js**, con la vista puesta en el desarrollo full-stack.
+- ✨ A partir de ahí, estoy ampliando progresivamente mis conocimientos en **desarrollo web**, explorando tecnologías como **React, Astro, TypeScript y Next.js**, con la vista puesta en el **desarrollo full-stack**.
 
 - 🧩 Mi objetivo no es únicamente aprender tecnologías, sino **entender cómo encajan las piezas** y ser capaz de **convertir ese conocimiento en proyectos reales**.
 
