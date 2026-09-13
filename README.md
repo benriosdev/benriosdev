@@ -63,7 +63,7 @@ Compañero de estudios para alumnos de FP Online: gestión de PACs, videotutorí
 
 <a href="https://github.com/benriosdev/mifp-web">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./buttons/repository-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./buttons/repositorio-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./buttons/repositorio.svg">
   <img src="./buttons/repositorio.svg" width="240" alt="Repositorio">
 </picture>
@@ -81,7 +81,7 @@ Ante la falta de material práctico actualizado para estudiantes de DAW, creé u
 
 <a href="https://github.com/benriosdev/tests-interactivos-app">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./buttons/tests-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./buttons/probar-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./buttons/probar.svg">
   <img src="./buttons/probar.svg" width="240" alt="Probar tests">
 </picture>
@@ -101,7 +101,7 @@ Portfolio personal donde muestro mi experiencia, proyectos y perfil Front-End + 
 
 <a href="https://benrios.dev">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./buttons/demo-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./buttons/portfolio-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./buttons/portfolio.svg">
   <img src="./buttons/portfolio.svg" width="240" alt="Portfolio">
 </picture>
