@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="186" height="42" viewBox="0 0 186 42">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#182132"/>
+      <stop offset="1" stop-color="#101827"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-30%" width="120%" height="170%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000000" flood-opacity=".28"/>
+    </filter>
+  </defs>
+  <g filter="url(#shadow)">
+    <rect x="1" y="1" width="184" height="40" rx="11" fill="url(#bg)" stroke="#2A3548" stroke-width="1"/>
+    <g transform="translate(8 11)">
+      <path d="M3.8 6.2h5l1.6 1.7h5.8v7.6a1.5 1.5 0 0 1-1.5 1.5H5.3a1.5 1.5 0 0 1-1.5-1.5z" stroke="#F2A65A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M3.8 6.2V5.1A1.3 1.3 0 0 1 5.1 3.8h3.1l1.5 1.7h4.8" stroke="#F2A65A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    </g>
+    <text x="45" y="25.5" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+          font-size="9.5" font-weight="700" letter-spacing="1.1" fill="#F2A65A">VER MODELO</text>
+    <circle cx="168" cy="21" r="10" fill="#202C40"/>
+    <path d="m165.5 17.2 4 3.8-4 3.8" fill="none" stroke="#F2A65A" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

@@ -129,11 +129,11 @@ Proyecto en desarrollo para centralizar documentación y recursos de FP.
 
 | Proyecto | Descripción | Tech | Acceso |
 |:---|:---|:---|:---:|
-| **Aprendiendo Git y GitHub** | Guía completa de control de versiones, repos y colaboración. | `Git` `GitHub` | <a href="https://benrios.dev/hola-git/git/"><img src="./buttons/abrir-guia.svg" alt="Abrir guía"></a> |
-| **Base de datos de Estudiantes** | Proyecto de BD relacional: diseño de tablas, relaciones y modelo E-R. | `BBDD` `Guía` | <a href="https://benrios.dev/modelo-er/"><img src="./buttons/ver-modelo.svg" alt="Ver modelo ER"></a> |
-| **Java Fundamentos Básicos** | App educativa para aprender Java desde cero con ejercicios interactivos. | `Java` `Educativo` | <a href="https://benrios.dev/fundamentos-java/"><img src="./buttons/ver-proyecto.svg" alt="Ver proyecto"></a> |
-| **Guía interactiva de JavaScript** | Guía de fundamentos de JS, desde variables hasta el DOM y eventos. | `JavaScript` `HTML` `CSS` | <a href="https://benrios.dev/javascript/"><img src="./buttons/aprender.svg" alt="Aprender"></a> |
-| **Piedra, Papel o Tijera** | PAC de desarollo de DAW. Juego clásico en Java con lógica de partida y puntuación. | `Java` `Ejercicios` | <a href="https://benrios.dev/piedra-papel-tijera-java/"><img src="./buttons/jugar.svg" alt="Jugar"></a> |
+| **Aprendiendo Git y GitHub** | Guía completa de control de versiones, repos y colaboración. | `Git` `GitHub` | <a href="https://benrios.dev/hola-git/git/"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/guia-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/abrir-guia.svg"><img src="./buttons/guia.svg" alt="Abrir guía"></picture></a> |
+| **Base de datos de Estudiantes** | Proyecto de BD relacional: diseño de tablas, relaciones y modelo E-R. | `BBDD` `Guía` | <a href="https://benrios.dev/modelo-er/"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/modelo-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/ver-modelo.svg"><img src="./buttons/modelo.svg" alt="Ver modelo ER"></picture></a> |
+| **Java Fundamentos Básicos** | App educativa para aprender Java desde cero con ejercicios interactivos. | `Java` `Educativo` | <a href="https://benrios.dev/fundamentos-java/"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/proyecto-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/proyecto.svg"><img src="./buttons/ver-proyecto.svg" alt="Ver proyecto"></picture></a> |
+| **Guía interactiva de JavaScript** | Guía de fundamentos de JS, desde variables hasta el DOM y eventos. | `JavaScript` `HTML` `CSS` | <a href="https://benrios.dev/javascript/"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/aprender-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/aprender.svg"><img src="./buttons/aprender.svg" alt="Aprender"></picture></a> |
+| **Piedra, Papel o Tijera** | PAC de desarollo de DAW. Juego clásico en Java con lógica de partida y puntuación. | `Java` `Ejercicios` | <a href="https://benrios.dev/piedra-papel-tijera-java/"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/jugar-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/jugar.svg"><img src="./buttons/jugar.svg" alt="Jugar"></picture></a> |
 
 <br/>
 
