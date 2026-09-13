@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="96" viewBox="0 0 420 96">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#21171b"/>
+      <stop offset="1" stop-color="#0b1220"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-opacity=".22"/>
+    </filter>
+  </defs>
+  <g filter="url(#shadow)">
+    <rect x="3" y="3" width="414" height="90" rx="20" fill="url(#bg)" stroke="#ff7772" stroke-opacity=".72" stroke-width="2"/>
+    <circle cx="48" cy="48" r="27" fill="#ff7772" fill-opacity=".10" stroke="#ff7772" stroke-opacity=".38" stroke-width="1.5"/>
+    <rect x="32" y="37" width="32" height="22" rx="4" fill="none" stroke="#ff7772" stroke-width="2.8"/>
+<path d="M34 40l14 11 14-11" fill="none" stroke="#ff7772" stroke-width="2.5" stroke-linejoin="round"/>
+    <text x="91" y="56" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="1.1" fill="#ff7772">EMAIL</text>
+    <circle cx="376" cy="48" r="20" fill="#ff7772" fill-opacity=".08" stroke="#ff7772" stroke-opacity=".25"/>
+    <path d="M369 39 L379 48 L369 57" fill="none" stroke="#ff7772" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
