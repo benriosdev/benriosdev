@@ -11,7 +11,7 @@
     src="https://raw.githubusercontent.com/benriosdev/benriosdev/main/images/top-img-light.png"
     alt="Perfil de benriosdev"
   >
-</picture>
+</picture>.
 
 ## 🧠 Sobre mí
 
