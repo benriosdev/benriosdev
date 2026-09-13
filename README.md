@@ -32,8 +32,6 @@
 
 `Antigravity` · `VS Code` · `Claude Code CLI` · `ChatGPT` · `Gemini Pro`
 
-Utilizo distintas herramientas según la tarea dentro de mi día a día:
-
 - 💻 **Antigravity** → mi IDE principal para desarrollar y trabajar en mis proyectos.
 - 🛠️ **VS Code** → edición, revisión y organización de código cuando lo necesito.
 - 🤖 **Claude Code CLI** → apoyo en programación, desarrollo y revisión de proyectos desde la terminal.
@@ -53,7 +51,7 @@ Compañero de estudios para alumnos de FP Online: gestión de PACs, videotutorí
 
 `React` `Next.js` `TypeScript` `Tailwind CSS` `Supabase`
 
-<a href="https://mifp.dev"><img src="./buttons/visitar.svg" alt="Visitar"></a>
+<a href="https://github.com/ProyectoBS-Dev/mifp-web"><img src="./buttons/ver-proyecto.svg" alt="Ver proyecto"></a>
 
 </td>
 <td width="50%" valign="top">
@@ -117,7 +115,7 @@ Proyecto en desarrollo para centralizar documentación y recursos de FP.
 
 <div align="center">
 
-### 🙌 ¡Gracias por visitar mi perfil y seguir mi progreso!
+### 🚀 **¡Gracias por visitar mi perfil y acompañarme mientras sigo aprendiendo y construyendo!**
  <img src="https://visitor-badge.laobi.icu/badge?page_id=devbenhr.devbenhr&"  />
 
 </div>
