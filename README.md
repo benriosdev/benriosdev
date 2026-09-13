@@ -3,9 +3,18 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/images/top-img-white.png">
-  <source media="(prefers-color-scheme: light)" srcset="/images/top-img.png">
-  <img src="/images/top-img.png" alt="Perfil de benriosdev">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/benriosdev/benriosdev/main/images/top-img.png"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/benriosdev/benriosdev/main/images/top-img-white.png"
+  >
+  <img
+    src="https://raw.githubusercontent.com/benriosdev/benriosdev/main/images/top-img-white.png"
+    alt="Perfil de benriosdev"
+  >
 </picture>
 
 ## 🧠 Sobre mí
