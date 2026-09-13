@@ -32,9 +32,17 @@
 
 ## 🤖 IA & herramientas de desarrollo
 
-`Claude Code` · `Cursor` · `VS Code` · `Antigravity`
+`Antigravity` · `Claude Code` · `ChatGPT` · `Gemini Pro` · `VS Code`
 
-Utilizo la IA como apoyo para **aprender, programar y mejorar proyectos**, siempre entendiendo lo que construyo.
+Utilizo distintas herramientas según la tarea dentro de mi día a día:
+
+- 💻 **Antigravity** → mi IDE principal para desarrollar y trabajar en mis proyectos.
+- 🤖 **Claude Code** → programación, desarrollo y revisión de proyectos.
+- 🧠 **ChatGPT** → aprendizaje, investigación, resolución de dudas y exploración de soluciones.
+- 🔎 **Gemini Pro** → investigación, contraste de información y apoyo en tareas de desarrollo.
+- 🛠️ **VS Code** → edición, revisión y organización de código cuando lo necesito.
+
+Siempre utilizo la IA como **apoyo**, entendiendo, comprobando y validando lo que construyo.
 
 <br/>
 
