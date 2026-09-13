@@ -10,7 +10,7 @@
 
 - ☕ Mi punto de partida es **Java**, donde estoy construyendo fundamentos sólidos de **programación y POO**.
 
-- ✨ A partir de ahí, estoy ampliando mis conocimientos en **desarrollo web**, **programación** y **bases de datos**, con la vista puesta en el **desarrollo full-stack**. También me llama especialmente la atención el área de **DevOps**, podría ser el próximo campo que explore en mi camino profesional.
+- ✨ A partir de ahí, estoy ampliando mis conocimientos en **desarrollo web**, **programación** y **bases de datos**, con la vista puesta en el **desarrollo full-stack**. También me llama especialmente la atención el área de **DevOps**, que me gustaría explorar y profundizar para descubrir si es un camino que quiero seguir.
 
 - 🧩 Mi objetivo no es únicamente aprender tecnologías, sino **entender cómo encajan las piezas** y ser capaz de **convertir ese conocimiento en proyectos reales**.
 
