@@ -56,50 +56,63 @@
 <td width="50%" valign="top">
 
 ### 📚 MiFP
+
 Compañero de estudios para alumnos de FP Online: gestión de PACs, videotutorías, notas y recursos con dashboard en tiempo real. Proyecto en colaboración.
 
 `React` `Next.js` `TypeScript` `Tailwind CSS` `Supabase`
 
+<a href="https://github.com/benriosdev/mifp-web">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./buttons/repositorio-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./buttons/repository-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./buttons/repositorio.svg">
   <img src="./buttons/repositorio.svg" width="240" alt="Repositorio">
 </picture>
+</a>
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 📝 Tests Interactivos App
+
 Ante la falta de material práctico actualizado para estudiantes de DAW, creé una app web interactiva para hacer tests y simulacros de examen, facilitando el estudio y la autoevaluación.
 
 `JavaScript` `HTML` `CSS`
 
+<a href="https://github.com/benriosdev/tests-interactivos-app">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./buttons/probar-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./buttons/tests-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./buttons/probar.svg">
   <img src="./buttons/probar.svg" width="240" alt="Probar tests">
 </picture>
+</a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### 🌐 Portfolio Web
+
 Portfolio personal donde muestro mi experiencia, proyectos y perfil Front-End + UI/UX.
 
 `HTML` `CSS` `JavaScript` `Responsive Design`
 
+<a href="https://benrios.dev">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./buttons/portfolio-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./buttons/demo-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./buttons/portfolio.svg">
   <img src="./buttons/portfolio.svg" width="240" alt="Portfolio">
 </picture>
+</a>
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 📄 FP Docs
+
 Proyecto en desarrollo para centralizar documentación y recursos de FP.
 
 `Astro` `TypeScript` `CSS Native`
