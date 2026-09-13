@@ -4,15 +4,15 @@
 
 ## 🧠 Sobre mí
 
-- 🎓 Hey 👋🏼, soy Benja. Actualmente estudio Desarrollo de **Aplicaciones Web (DAW)** y estoy convirtiendo el aprendizaje en proyectos reales.
+- 🎓 Hey 👋🏼, soy Benja. **Técnico en Instalaciones de Telecomunicaciones** y actualmente estudio **Desarrollo de Aplicaciones Web (DAW)**.
+
+- 💼 Mi experiencia en tecnología, reparación de dispositivos y atención al cliente me ha dado una visión práctica de cómo las personas utilizan y necesitan la tecnología.
 
 - ☕ Mi punto de partida es Java, donde estoy construyendo fundamentos sólidos de programación y POO.
 
 - 🌐 Poco a poco estoy ampliando progresivamente mis conocimientos en desarrollo web, explorando frontend, bases de datos y herramientas como **React, Astro, TypeScript y Next.js**, con la vista puesta en el desarrollo full-stack.
 
-- 🧩 No me interesa únicamente aprender tecnologías. Me interesa entender cómo encajan las piezas y ser capaz de construir algo con ellas.
-
-- 🛠️ Este perfil documenta ese camino: desde pequeños ejercicios hasta proyectos cada vez más completos.
+- 🧩 Ahora llevo esa experiencia al desarrollo web, aprendiendo, experimentando y construyendo proyectos reales.
 
 <br/>
 
