@@ -32,7 +32,7 @@
 
 ## 🤖 IA & herramientas de desarrollo
 
-`Antigravity` · `Claude Code` · `ChatGPT` · `Gemini Pro` · `VS Code`
+`Antigravity` · `VS Code` · `Claude Code` · `ChatGPT` · `Gemini Pro`
 
 Utilizo distintas herramientas según la tarea dentro de mi día a día:
 
