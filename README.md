@@ -26,11 +26,35 @@
 <br/>
 
 <div align="center">
-  <a href="https://benrios.dev"><img src="./buttons/portfolio.svg" alt="Portfolio"></a>
+
+  <a href="https://benrios.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./buttons/portfolio-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./buttons/portfolio.svg">
+      <img src="./buttons/portfolio.svg" alt="Portfolio">
+    </picture>
+  </a>
+
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/benriosdev/"><img src="./buttons/linkedin.svg" alt="LinkedIn"></a>
+
+  <a href="https://www.linkedin.com/in/benriosdev/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./buttons/linkedin-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./buttons/linkedin.svg">
+      <img src="./buttons/linkedin.svg" alt="LinkedIn">
+    </picture>
+  </a>
+
   &nbsp;&nbsp;
-  <a href="https://benrios.dev/faq/#contacto"><img src="./buttons/email.svg" alt="Email"></a>
+
+  <a href="https://benrios.dev/faq/#contacto">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./buttons/email-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./buttons/email.svg">
+      <img src="./buttons/email.svg" alt="Email">
+    </picture>
+  </a>
+
 </div>
 
 <br/>
