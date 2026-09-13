@@ -6,13 +6,11 @@
 
 - 🎓 Hey 👋🏼, soy Benja. **Técnico en Instalaciones de Telecomunicaciones** y actualmente estudio **Desarrollo de Aplicaciones Web (DAW)**.
 
-- 💼 Mi experiencia en **tecnología, reparación de dispositivos y atención al cliente** me ha dado una visión práctica de las necesidades de los usuarios y de cómo la tecnología puede resolver **problemas reales**.
+- 💼 Mi experiencia trabajando en **tecnología, reparación de dispositivos y atención al cliente** me ha dado una visión práctica de las necesidades de los usuarios y de cómo resolver problemas reales.
 
 - ☕ Mi punto de partida es **Java**, donde estoy construyendo fundamentos sólidos de **programación y POO**.
 
-- ✨ A partir de ahí, estoy ampliando mis conocimientos en **desarrollo web, programación y bases de datos**, con la vista puesta en el **desarrollo full-stack**. También estoy explorando el **uso de la IA como herramienta de apoyo al desarrollo** y me llama especialmente la atención el área de **DevOps**, que me gustaría explorar y profundizar para descubrir si es un camino que quiero seguir.
-
-- 🧩 Mi objetivo no es únicamente aprender tecnologías, sino **entender cómo encajan las piezas** y ser capaz de **convertir ese conocimiento en proyectos reales**.
+- ✨ Estoy ampliando mis conocimientos en **desarrollo web, programación y bases de datos**, con la vista puesta en el **desarrollo full-stack**. También estoy explorando **IA aplicada al desarrollo** y el área de **DevOps** el cual no descarto como futura especialización.
 
 <br/>
 
@@ -32,7 +30,7 @@
 
 ## 🤖 IA & herramientas de desarrollo
 
-`Antigravity` · `VS Code` · `Claude Code` · `ChatGPT` · `Gemini Pro`
+`Antigravity` · `VS Code` · `Claude Code CLI` · `ChatGPT` · `Gemini Pro`
 
 Utilizo distintas herramientas según la tarea dentro de mi día a día:
 
