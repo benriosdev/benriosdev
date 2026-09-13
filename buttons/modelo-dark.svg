@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="120" height="28" viewBox="0 0 120 28">
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="34" viewBox="0 0 150 34">
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#182132"/>
-      <stop offset="1" stop-color="#101827"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1B2638"/>
+      <stop offset="1" stop-color="#111A29"/>
     </linearGradient>
   </defs>
-  <rect x=".5" y=".5" width="119" height="27" rx="7.5" fill="url(#g)" stroke="#2A3548"/>
-  <g transform="translate(7 6.5)"><path d="M2.8 4.8h3.7l1.2 1.3h4.5v5.7a1.1 1.1 0 0 1-1.1 1.1H3.9a1.1 1.1 0 0 1-1.1-1.1z" stroke="#F2A65A" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M2.8 4.8v-.9A1 1 0 0 1 3.8 3h2.3l1.1 1.3h3.6" stroke="#F2A65A" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g>
-  <text x="29" y="17.4" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
-        font-size="6.8" font-weight="700" letter-spacing=".7" fill="#F2A65A">VER MODELO</text>
-  <circle cx="108" cy="14" r="6.5" fill="#202C40"/>
-  <path d="m106.4 11.6 2.6 2.4-2.6 2.4" fill="none" stroke="#F2A65A" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="1" y="1" width="148" height="32" rx="8.5" fill="url(#bg)" stroke="#344156" stroke-width="1"/>
+  <g transform="translate(8 9)"><path d="M3 4.8h3.6l1.3 1.4h4.6v5.6c0 .8-.6 1.4-1.4 1.4H4.4c-.8 0-1.4-.6-1.4-1.4z" stroke="#F3AA62" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M3 4.8v-1A1 1 0 0 1 4 2.8h2.3l1.1 1.3h3.7" stroke="#F3AA62" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g>
+  <text x="31" y="21.3" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="8" font-weight="700" letter-spacing=".85" fill="#F3AA62">VER MODELO</text>
+  <circle cx="135" cy="17" r="7.5" fill="#243047"/>
+  <path d="m133 14.2 3 2.8-3 2.8" fill="none" stroke="#F3AA62" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
