@@ -2,6 +2,12 @@
   <img src="./images/top-img-white.png" alt="Top banner" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/images/top-img-white.png">
+  <source media="(prefers-color-scheme: light)" srcset="/images/top-img.png">
+  <img src="/images/top-img.png" alt="Perfil de benriosdev">
+</picture>
+
 ## 🧠 Sobre mí
 
 - 🎓 Hey 👋🏼, soy Benja. **Técnico en Instalaciones de Telecomunicaciones** y actualmente estudio **Desarrollo de Aplicaciones Web (DAW)**.
