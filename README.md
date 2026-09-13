@@ -60,7 +60,11 @@ Compañero de estudios para alumnos de FP Online: gestión de PACs, videotutorí
 
 `React` `Next.js` `TypeScript` `Tailwind CSS` `Supabase`
 
-<a href="https://github.com/ProyectoBS-Dev/mifp-web"><img src="./buttons/repositorio.svg" alt="Ver repositorio"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./buttons/repositorio-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./buttons/repositorio.svg">
+  <img src="./buttons/repositorio.svg" width="240" alt="Repositorio">
+</picture>
 
 </td>
 <td width="50%" valign="top">
@@ -70,7 +74,11 @@ Ante la falta de material práctico actualizado para estudiantes de DAW, creé u
 
 `JavaScript` `HTML` `CSS`
 
-<a href="https://benrios.dev/tests/"><img src="./buttons/probar-tests.svg" alt="Probar tests"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./buttons/probar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./buttons/probar.svg">
+  <img src="./buttons/probar.svg" width="240" alt="Probar tests">
+</picture>
 
 </td>
 </tr>
@@ -82,7 +90,11 @@ Portfolio personal donde muestro mi experiencia, proyectos y perfil Front-End + 
 
 `HTML` `CSS` `JavaScript` `Responsive Design`
 
-<a href="https://benrios.dev"><img src="./buttons/live-demo.svg" alt="Demo"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./buttons/portfolio-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./buttons/portfolio.svg">
+  <img src="./buttons/portfolio.svg" width="240" alt="Portfolio">
+</picture>
 
 </td>
 <td width="50%" valign="top">
