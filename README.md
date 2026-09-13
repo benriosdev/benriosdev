@@ -31,7 +31,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./buttons/portfolio-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="./buttons/portfolio.svg">
-      <img src="./buttons/portfolio.svg" alt="Portfolio">
+      <img src="./buttons/portfolio.svg" width="300" alt="Portfolio">
     </picture>
   </a>
 
@@ -41,7 +41,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./buttons/linkedin-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="./buttons/linkedin.svg">
-      <img src="./buttons/linkedin.svg" alt="LinkedIn">
+      <img src="./buttons/linkedin.svg" width="300" alt="LinkedIn">
     </picture>
   </a>
 
@@ -51,7 +51,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./buttons/email-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="./buttons/email.svg">
-      <img src="./buttons/email.svg" alt="Email">
+      <img src="./buttons/email.svg" width="300" alt="Email">
     </picture>
   </a>
 
