@@ -10,7 +10,7 @@
 
 - ☕ Mi punto de partida es **Java**, donde estoy construyendo fundamentos sólidos de **programación y POO**.
 
-- ✨ A partir de ahí, estoy ampliando mis conocimientos en **desarrollo web**, **programación** y **bases de datos**, con la vista puesta en el **desarrollo full-stack**. El uso de **IA como herramienta de apoyo al desarrollo**. Y me llama especialmente la atención el área de **DevOps**, que me gustaría explorar y profundizar para descubrir si es un camino que quiero seguir.
+- ✨ A partir de ahí, estoy ampliando mis conocimientos en **desarrollo web, programación y bases de datos**, con la vista puesta en el **desarrollo full-stack**. También estoy explorando el **uso de la IA como herramienta de apoyo al desarrollo** y me llama especialmente la atención el área de **DevOps**, que me gustaría explorar y profundizar para descubrir si es un camino que quiero seguir.
 
 - 🧩 Mi objetivo no es únicamente aprender tecnologías, sino **entender cómo encajan las piezas** y ser capaz de **convertir ese conocimiento en proyectos reales**.
 
@@ -93,11 +93,11 @@ Proyecto en desarrollo para centralizar documentación y recursos de FP.
 
 | Proyecto | Descripción | Tech | Acceso |
 |:---|:---|:---|:---:|
-| **Aprendiendo Git y GitHub** | Guía completa de control de versiones, repos y colaboración | `Git` `GitHub` | <a href="https://benrios.dev/hola-git/git/"><img src="./buttons/abrir-guia.svg" alt="Abrir guía"></a> |
-| **Base de datos de Estudiantes** | Proyecto de BD relacional: diseño de tablas, relaciones y modelo E-R | `MySQL` `SQL` | <a href="https://benrios.dev/modelo-er/"><img src="./buttons/ver-modelo.svg" alt="Ver modelo ER"></a> |
+| **Aprendiendo Git y GitHub** | Guía completa de control de versiones, repos y colaboración | `Git` `GitHub` `Guía`| <a href="https://benrios.dev/hola-git/git/"><img src="./buttons/abrir-guia.svg" alt="Abrir guía"></a> |
+| **Base de datos de Estudiantes** | Proyecto de BD relacional: diseño de tablas, relaciones y modelo E-R | `BBDD` `Educativo` | <a href="https://benrios.dev/modelo-er/"><img src="./buttons/ver-modelo.svg" alt="Ver modelo ER"></a> |
 | **Java Fundamentos Básicos** | App educativa para aprender Java desde cero con ejercicios interactivos | `Java` `Educativo` | <a href="https://benrios.dev/fundamentos-java/"><img src="./buttons/ver-proyecto.svg" alt="Ver proyecto"></a> |
-| **Guía interactiva de JavaScript** | Guía de fundamentos de JS, desde variables hasta el DOM y eventos | `JavaScript` `HTML` `CSS` | <a href="https://benrios.dev/javascript/"><img src="./buttons/aprender.svg" alt="Aprender"></a> |
-| **Piedra, Papel o Tijera** | Juego clásico en Java con lógica de partida y puntuación en tiempo real | `Java` | <a href="https://benrios.dev/piedra-papel-tijera-java/"><img src="./buttons/jugar.svg" alt="Jugar"></a> |
+| **Guía interactiva de JavaScript** | Guía de fundamentos de JS, desde variables hasta el DOM y eventos | `JavaScript` `HTML` `CSS` `Guía` | <a href="https://benrios.dev/javascript/"><img src="./buttons/aprender.svg" alt="Aprender"></a> |
+| **Piedra, Papel o Tijera** | Juego clásico en Java con lógica de partida y puntuación en tiempo real | `Java` `Ejercicio Curso` | <a href="https://benrios.dev/piedra-papel-tijera-java/"><img src="./buttons/jugar.svg" alt="Jugar"></a> |
 
 <br/>
 
