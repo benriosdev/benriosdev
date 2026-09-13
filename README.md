@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./images/top-img-white.png" alt="Top banner" />
-</div>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
