@@ -38,11 +38,9 @@ Utilizo distintas herramientas según la tarea dentro de mi día a día:
 
 - 💻 **Antigravity** → mi IDE principal para desarrollar y trabajar en mis proyectos.
 - 🛠️ **VS Code** → edición, revisión y organización de código cuando lo necesito.
-- 🤖 **Claude Code** → apoyo en programación, desarrollo y revisión de proyectos.
-- 🧠 **ChatGPT** → aprendizaje, investigación, resolución de dudas y exploración de soluciones.
-- 🔎 **Gemini Pro** → investigación, contraste de información y apoyo en tareas de desarrollo.
-
-Siempre utilizo la IA como **apoyo**, entendiendo, comprobando y validando lo que construyo.
+- 🤖 **Claude Code CLI** → apoyo en programación, desarrollo y revisión de proyectos desde la terminal.
+- 🧠 **ChatGPT** → aprendizaje, investigación, resolución de dudas y apoyo para analizar, planificar y mejorar proyectos.
+- 🔎 **Gemini Pro** → investigación, contraste de información y exploración de alternativas para proyectos.
 
 <br/>
 
