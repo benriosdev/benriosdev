@@ -51,7 +51,7 @@ Compañero de estudios para alumnos de FP Online: gestión de PACs, videotutorí
 
 `React` `Next.js` `TypeScript` `Tailwind CSS` `Supabase`
 
-<a href="https://github.com/ProyectoBS-Dev/mifp-web"><img src="./buttons/ver-proyecto.svg" alt="Ver proyecto"></a>
+<a href="https://github.com/ProyectoBS-Dev/mifp-web"><img src="./buttons/repositorio.svg" alt="Ver repositorio"></a>
 
 </td>
 <td width="50%" valign="top">
