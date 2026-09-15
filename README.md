@@ -39,13 +39,14 @@
 
 ## 🤖 IA & herramientas de desarrollo
 
-`Antigravity` · `VS Code` · `Claude Code CLI` · `ChatGPT` · `Gemini Pro`
+`Antigravity` · `VS Code` · `IntelliJ IDEA` · `Claude Code CLI` · `ChatGPT` · `Gemini Pro`
 
-- 💻 **Antigravity** → mi IDE principal para desarrollar y trabajar en mis proyectos.
-- 🛠️ **VS Code** → edición, revisión y organización de código cuando lo necesito.
-- 🤖 **Claude Code CLI** → apoyo en programación, desarrollo y revisión de proyectos desde la terminal.
-- 🧠 **ChatGPT** → aprendizaje, investigación, resolución de dudas y apoyo para analizar, planificar y mejorar proyectos.
-- 🔎 **Gemini Pro** → investigación, contraste de información y exploración de alternativas para proyectos.
+* 💻 Antigravity → mi IDE principal. Lo utilizo para desarrollar, trabajar con mis proyectos y convertir lo que voy aprendiendo en código real.
+* ☕ IntelliJ IDEA → mi entorno para Java. Lo utilizo principalmente para practicar programación, POO y desarrollar mis proyectos en Java.
+* 🛠️ VS Code → una herramienta secundaria para edición rápida, revisión de código y tareas puntuales.
+* 🤖 Claude Code CLI → mi asistente desde la terminal para programar, analizar código, revisar proyectos y trabajar directamente sobre el repositorio.
+* 🧠 ChatGPT → mi apoyo para aprender, investigar, resolver dudas, entender conceptos y planificar o mejorar mis proyectos.
+* 🔎 Gemini Pro → lo utilizo como segunda perspectiva para investigar, contrastar información y explorar diferentes soluciones.
 
 <br/>
 
