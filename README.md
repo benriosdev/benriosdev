@@ -118,7 +118,7 @@ Sitio de apuntes de repaso para DAM y DAW: resúmenes por asignatura, glosario c
 
 `HTML` `CSS` `JavaScript` `Bootstrap` `Bootstrap Icons`
 
-<a href="https://github.com/benriosdev/dax-repaso>
+<a href="https://github.com/benriosdev/dax-repaso">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./buttons/repositorio-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./buttons/repositorio.svg">
