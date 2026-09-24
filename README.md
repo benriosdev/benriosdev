@@ -112,13 +112,19 @@ Portfolio personal donde muestro mi experiencia, proyectos y perfil Front-End + 
 
 <td width="50%" valign="top">
 
-### 📄 FP Docs
+### 🎓 DAX Repaso
 
-Proyecto en desarrollo para centralizar documentación y recursos de FP.
+Sitio de apuntes de repaso para DAM y DAW: resúmenes por asignatura, glosario con flashcards, chuletas de referencia rápida (SQL, Git, Java, Linux, HTTP) y guías de herramientas de desarrollo.
 
-`Astro` `TypeScript` `CSS Native`
+`HTML` `CSS` `JavaScript` `Bootstrap` `Bootstrap Icons`
 
-🚧 *En desarrollo — aún no publicado*
+<a href="https://github.com/benriosdev/dax-repaso>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./buttons/repositorio-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./buttons/repositorio.svg">
+  <img src="./buttons/repositorio.svg" width="240" alt="Repositorio">
+</picture>
+</a>
 
 </td>
 </tr>
