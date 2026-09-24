@@ -114,7 +114,7 @@ Portfolio personal donde muestro mi experiencia, proyectos y perfil Front-End + 
 
 ### 🎓 DAX Repaso
 
-Sitio de apuntes de repaso para DAM y DAW: resúmenes por asignatura, glosario con flashcards, chuletas de referencia rápida (SQL, Git, Java, Linux, HTTP) y guías de herramientas de desarrollo.
+Repaso para DAM y DAW: resúmenes por asignatura, glosario con flashcards, chuletas de referencia rápida y guías de herramientas de desarrollo.
 
 `HTML` `CSS` `JavaScript` `Bootstrap` `Bootstrap Icons`
 
