@@ -25,28 +25,7 @@
 
 <br/>
 
-<p align="center"><a href="https://benrios.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/portfolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/portfolio.svg"><img src="./buttons/portfolio.svg" width="200" alt="Portfolio"></picture></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/benriosdev/"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/linkedin.svg"><img src="./buttons/linkedin.svg" width="200" alt="LinkedIn"></picture></a>&nbsp;&nbsp;&nbsp;<a href="https://benrios.dev/#contacto"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/email-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/email.svg"><img src="./buttons/email.svg" width="200" alt="Email"></picture></a></p>
-
-<br/>
-
-## 🛠️ Mis Tecnologías / Stack
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/tech-stack-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./images/tech-stack-light.svg">
-  <img src="./images/tech-stack-light.svg" alt="Tech Stack de benriosdev">
-</picture>
-
-## 🤖 IA & herramientas de desarrollo
-
-`Antigravity` · `VS Code` · `IntelliJ IDEA` · `Claude Code CLI` · `ChatGPT` · `Gemini Pro`
-
-* 💻 Antigravity → mi IDE principal. Lo utilizo para desarrollar, trabajar con mis proyectos y convertir lo que voy aprendiendo en código real.
-* ☕ IntelliJ IDEA → mi entorno para Java. Lo utilizo principalmente para practicar programación, POO y desarrollar mis proyectos en Java.
-* 🛠️ VS Code → una herramienta secundaria para edición rápida, revisión de código y tareas puntuales.
-* 🤖 Claude Code CLI → mi asistente desde la terminal para programar, analizar código, revisar proyectos y trabajar directamente sobre el repositorio.
-* 🧠 ChatGPT → mi apoyo para aprender, investigar, resolver dudas, entender conceptos y planificar o mejorar mis proyectos.
-* 🔎 Gemini Pro → lo utilizo como segunda perspectiva para investigar, contrastar información y explorar diferentes soluciones.
+<p align="center"><a href="https://benrios.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/portfolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/portfolio.svg"><img src="./buttons/portfolio.svg" width="200" alt="Portafolio"></picture></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/benriosdev/"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/linkedin.svg"><img src="./buttons/linkedin.svg" width="200" alt="LinkedIn"></picture></a>&nbsp;&nbsp;&nbsp;<a href="https://benrios.dev/#contacto"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/email-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/email.svg"><img src="./buttons/email.svg" width="200" alt="Email"></picture></a></p>
 
 <br/>
 
@@ -94,9 +73,9 @@ Ante la falta de material didáctico actualizado para estudiantes de FP, creé u
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Portfolio Web
+### 🌐 Portafolio Web
 
-Portfolio personal donde muestro mi experiencia, proyectos y perfil Front-End + UI/UX.
+Portafolio personal donde muestro mi experiencia, proyectos y perfil Front-End + UI/UX.
 
 `HTML` `CSS` `JavaScript` `Responsive Design`
 
@@ -104,7 +83,7 @@ Portfolio personal donde muestro mi experiencia, proyectos y perfil Front-End + 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./buttons/portfolio-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./buttons/portfolio.svg">
-  <img src="./buttons/portfolio.svg" width="240" alt="Portfolio">
+  <img src="./buttons/portfolio.svg" width="240" alt="Portafolio">
 </picture>
 </a>
 
@@ -141,6 +120,27 @@ Repaso para DAM y DAW: resúmenes por asignatura, glosario con flashcards, chule
 | **Java Fundamentos Básicos** | App educativa para aprender Java desde cero con ejercicios interactivos. | `Java` `Educativo` | <a href="https://benrios.dev/fundamentos-java/"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/proyecto-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/proyecto.svg"><img src="./buttons/proyecto.svg" alt="Ver proyecto"></picture></a> |
 | **Guía interactiva de JavaScript** | Guía de fundamentos de JS, desde variables hasta el DOM y eventos. | `JavaScript` `HTML` `CSS` | <a href="https://benrios.dev/javascript/"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/aprender-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/aprender.svg"><img src="./buttons/aprender.svg" alt="Aprender"></picture></a> |
 | **Piedra, Papel o Tijera** | PAC de desarrollo de DAW. Juego clásico en Java con lógica de partida y puntuación. | `Java` `Ejercicios` | <a href="https://benrios.dev/piedra-papel-tijera-java/"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/jugar-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/jugar.svg"><img src="./buttons/jugar.svg" alt="Jugar"></picture></a> |
+
+<br/>
+
+## 🛠️ Mis Tecnologías / Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/tech-stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./images/tech-stack-light.svg">
+  <img src="./images/tech-stack-light.svg" alt="Tech Stack de benriosdev">
+</picture>
+
+## 🤖 IA & herramientas de desarrollo
+
+`Antigravity` · `VS Code` · `IntelliJ IDEA` · `Claude Code CLI` · `ChatGPT` · `Gemini Pro`
+
+* 💻 Antigravity → mi IDE principal. Lo utilizo para desarrollar, trabajar con mis proyectos y convertir lo que voy aprendiendo en código real.
+* ☕ IntelliJ IDEA → mi entorno para Java. Lo utilizo principalmente para practicar programación, POO y desarrollar mis proyectos en Java.
+* 🛠️ VS Code → una herramienta secundaria para edición rápida, revisión de código y tareas puntuales.
+* 🤖 Claude Code CLI → mi asistente desde la terminal para programar, analizar código, revisar proyectos y trabajar directamente sobre el repositorio.
+* 🧠 ChatGPT → mi apoyo para aprender, investigar, resolver dudas, entender conceptos y planificar o mejorar mis proyectos.
+* 🔎 Gemini Pro → lo utilizo como segunda perspectiva para investigar, contrastar información y explorar diferentes soluciones.
 
 <br/>
 
