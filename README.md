@@ -78,13 +78,13 @@ Compañero de estudios para alumnos de FP Online: gestión de PACs, videotutorí
 
 Ante la falta de material didáctico actualizado para estudiantes de FP, creé una app web interactiva de tests de exámenes, facilitando el estudio y la autoevaluación.
 
-`JavaScript` `HTML` `CSS`
+`Astro` `TypeScript` `CSS` `Vitest`
 
-<a href="https://benrios.dev/tests/">
+<a href="https://github.com/benriosdev/tests-interactivos">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./buttons/probar-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./buttons/probar.svg">
-  <img src="./buttons/probar.svg" width="240" alt="Probar tests">
+  <source media="(prefers-color-scheme: dark)" srcset="./buttons/repositorio-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./buttons/repositorio.svg">
+  <img src="./buttons/repositorio.svg" width="240" alt="Repositorio">
 </picture>
 </a>
 
