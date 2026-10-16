@@ -1,16 +1,7 @@
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/benriosdev/benriosdev/main/images/top-img-dark.png"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/benriosdev/benriosdev/main/images/top-img-light.png"
-  >
-  <img
-    src="https://raw.githubusercontent.com/benriosdev/benriosdev/main/images/top-img-light.png"
-    alt="Perfil de benriosdev"
-  >
+  <source media="(prefers-color-scheme: dark)" srcset="./images/top-img-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./images/top-img-light.svg">
+  <img src="./images/top-img-light.svg" alt="Perfil de benriosdev: desarrollador web en formación, estudiante de DAW">
 </picture>
 
 ## 🧠 Sobre mí
