@@ -32,9 +32,9 @@
 ## 🛠️ Mis Tecnologías / Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/images/tech-stack-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/images/tech-stack-light.png">
-  <img src="/images/tech-stack-light.png" alt="Tech Stack de benriosdev">
+  <source media="(prefers-color-scheme: dark)" srcset="./images/tech-stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./images/tech-stack-light.svg">
+  <img src="./images/tech-stack-light.svg" alt="Tech Stack de benriosdev">
 </picture>
 
 ## 🤖 IA & herramientas de desarrollo
@@ -140,7 +140,7 @@ Repaso para DAM y DAW: resúmenes por asignatura, glosario con flashcards, chule
 | **Base de datos de Estudiantes** | Proyecto de BD relacional: diseño de tablas, relaciones y modelo E-R. | `BBDD` `Guía` | <a href="https://benrios.dev/modelo-er/"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/modelo-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/modelo.svg"><img src="./buttons/modelo.svg" alt="Ver modelo ER"></picture></a> |
 | **Java Fundamentos Básicos** | App educativa para aprender Java desde cero con ejercicios interactivos. | `Java` `Educativo` | <a href="https://benrios.dev/fundamentos-java/"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/proyecto-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/proyecto.svg"><img src="./buttons/proyecto.svg" alt="Ver proyecto"></picture></a> |
 | **Guía interactiva de JavaScript** | Guía de fundamentos de JS, desde variables hasta el DOM y eventos. | `JavaScript` `HTML` `CSS` | <a href="https://benrios.dev/javascript/"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/aprender-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/aprender.svg"><img src="./buttons/aprender.svg" alt="Aprender"></picture></a> |
-| **Piedra, Papel o Tijera** | PAC de desarollo de DAW. Juego clásico en Java con lógica de partida y puntuación. | `Java` `Ejercicios` | <a href="https://benrios.dev/piedra-papel-tijera-java/"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/jugar-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/jugar.svg"><img src="./buttons/jugar.svg" alt="Jugar"></picture></a> |
+| **Piedra, Papel o Tijera** | PAC de desarrollo de DAW. Juego clásico en Java con lógica de partida y puntuación. | `Java` `Ejercicios` | <a href="https://benrios.dev/piedra-papel-tijera-java/"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/jugar-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/jugar.svg"><img src="./buttons/jugar.svg" alt="Jugar"></picture></a> |
 
 <br/>
 
