@@ -2,6 +2,7 @@
 // Uso: node scripts/tech-stack.mjs
 // Los logos salen de scripts/icons.json (simple-icons 16.30.0, CC0).
 import { readFileSync, writeFileSync } from 'node:fs';
+import { BASE, esc } from './tema.mjs';
 
 const icons = JSON.parse(readFileSync(new URL('icons.json', import.meta.url), 'utf8'));
 
@@ -58,15 +59,14 @@ const BLOQUES = [
   },
 ];
 
-// Mismos azules que los botones de buttons/.
 const TEMAS = {
   light: {
-    panel: '#F8FBFF', borde: '#CFE2FF', texto: '#1F2328', suave: '#59636E', acento: '#1769D1',
+    ...BASE.light,
     pill: '#EEF6FF', pillBorde: '#CFE2FF', pillTexto: '#0B4FA8',
     estados: { aprendiendo: '#1A7F37', aplicando: '#9A6700', consolidando: '#BC4C00', flujo: '#1769D1' },
   },
   dark: {
-    panel: '#0F1626', borde: '#1E3A5F', texto: '#E6EDF3', suave: '#8B949E', acento: '#38A8FF',
+    ...BASE.dark,
     pill: '#16233A', pillBorde: '#24406A', pillTexto: '#CFE6FF',
     estados: { aprendiendo: '#3FB950', aplicando: '#D29922', consolidando: '#F0883E', flujo: '#38A8FF' },
   },
@@ -93,7 +93,6 @@ const FILA_MIN = 46;
 const PILL = { h: 26, fuente: 12.5, pad: 10, gap: 8, linea: 6 };
 const PILLS_X = 236;
 
-const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;');
 // Estimación del ancho del texto (sin métricas reales), con algo de margen.
 const ancho = (s, size) => [...s].length * size * 0.53;
 

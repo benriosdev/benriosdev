@@ -12,7 +12,7 @@
 
 - ☕ Mi punto de partida es **Java**, donde estoy construyendo fundamentos sólidos de **programación y POO**.
 
-- ✨ Estoy ampliando mis conocimientos en **desarrollo web, programación y bases de datos**, con la vista puesta en el **desarrollo full-stack**. También estoy explorando **IA aplicada al desarrollo** y el área de **DevOps** el cual no descarto como futura especialización.
+- ✨ Estoy ampliando mis conocimientos en **desarrollo web, programación y bases de datos**, con la vista puesta en el **desarrollo full-stack**. También estoy explorando **IA aplicada al desarrollo** y el área de **DevOps**, la cual no descarto como futura especialización.
 
 <br/>
 
@@ -72,9 +72,9 @@ Portafolio personal donde muestro mi experiencia, proyectos y perfil Front-End +
 
 <a href="https://benrios.dev">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./buttons/portfolio-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./buttons/portfolio.svg">
-  <img src="./buttons/portfolio.svg" width="240" alt="Portafolio">
+  <source media="(prefers-color-scheme: dark)" srcset="./buttons/visitar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./buttons/visitar.svg">
+  <img src="./buttons/visitar.svg" width="240" alt="Visitar">
 </picture>
 </a>
 
@@ -107,10 +107,10 @@ Repaso para DAM y DAW: resúmenes por asignatura, glosario con flashcards, chule
 | Proyecto | Descripción | Tech | Acceso |
 |:---|:---|:---|:---:|
 | **Aprendiendo Git y GitHub** | Guía completa de control de versiones, repos y colaboración. | `Git` `GitHub` | <a href="https://benrios.dev/hola-git/git/"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/guia-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/guia.svg"><img src="./buttons/guia.svg" alt="Abrir guía"></picture></a> |
-| **Base de datos de Estudiantes** | Proyecto de BD relacional: diseño de tablas, relaciones y modelo E-R. | `BBDD` `Guía` | <a href="https://benrios.dev/modelo-er/"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/modelo-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/modelo.svg"><img src="./buttons/modelo.svg" alt="Ver modelo ER"></picture></a> |
-| **Java Fundamentos Básicos** | App educativa para aprender Java desde cero con ejercicios interactivos. | `Java` `Educativo` | <a href="https://benrios.dev/fundamentos-java/"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/proyecto-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/proyecto.svg"><img src="./buttons/proyecto.svg" alt="Ver proyecto"></picture></a> |
+| **Base de datos de Estudiantes** | Proyecto de BD relacional: diseño de tablas, relaciones y modelo E-R. | `SQL` | <a href="https://benrios.dev/modelo-er/"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/modelo-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/modelo.svg"><img src="./buttons/modelo.svg" alt="Ver modelo ER"></picture></a> |
+| **Java Fundamentos Básicos** | App educativa para aprender Java desde cero con ejercicios interactivos. | `Java` | <a href="https://benrios.dev/fundamentos-java/"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/proyecto-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/proyecto.svg"><img src="./buttons/proyecto.svg" alt="Ver proyecto"></picture></a> |
 | **Guía interactiva de JavaScript** | Guía de fundamentos de JS, desde variables hasta el DOM y eventos. | `JavaScript` `HTML` `CSS` | <a href="https://benrios.dev/javascript/"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/aprender-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/aprender.svg"><img src="./buttons/aprender.svg" alt="Aprender"></picture></a> |
-| **Piedra, Papel o Tijera** | PAC de desarrollo de DAW. Juego clásico en Java con lógica de partida y puntuación. | `Java` `Ejercicios` | <a href="https://benrios.dev/piedra-papel-tijera-java/"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/jugar-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/jugar.svg"><img src="./buttons/jugar.svg" alt="Jugar"></picture></a> |
+| **Piedra, Papel o Tijera** | PAC de desarrollo de DAW. Juego clásico en Java con lógica de partida y puntuación. | `Java` | <a href="https://benrios.dev/piedra-papel-tijera-java/"><picture><source media="(prefers-color-scheme: dark)" srcset="./buttons/jugar-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./buttons/jugar.svg"><img src="./buttons/jugar.svg" alt="Jugar"></picture></a> |
 
 <br/>
 
@@ -124,14 +124,12 @@ Repaso para DAM y DAW: resúmenes por asignatura, glosario con flashcards, chule
 
 ## 🤖 IA & herramientas de desarrollo
 
-`Antigravity` · `VS Code` · `IntelliJ IDEA` · `Claude Code CLI` · `ChatGPT` · `Gemini Pro`
-
-* 💻 Antigravity → mi IDE principal. Lo utilizo para desarrollar, trabajar con mis proyectos y convertir lo que voy aprendiendo en código real.
-* ☕ IntelliJ IDEA → mi entorno para Java. Lo utilizo principalmente para practicar programación, POO y desarrollar mis proyectos en Java.
-* 🛠️ VS Code → una herramienta secundaria para edición rápida, revisión de código y tareas puntuales.
-* 🤖 Claude Code CLI → mi asistente desde la terminal para programar, analizar código, revisar proyectos y trabajar directamente sobre el repositorio.
-* 🧠 ChatGPT → mi apoyo para aprender, investigar, resolver dudas, entender conceptos y planificar o mejorar mis proyectos.
-* 🔎 Gemini Pro → lo utilizo como segunda perspectiva para investigar, contrastar información y explorar diferentes soluciones.
+- 💻 **Antigravity**: mi IDE principal, donde desarrollo mis proyectos.
+- ☕ **IntelliJ IDEA**: para Java, practicar POO y mis proyectos en Java.
+- 🛠️ **VS Code**: para ediciones rápidas y revisar código.
+- 🤖 **Claude Code**: mi asistente en la terminal para programar y revisar proyectos sobre el repositorio.
+- 🧠 **ChatGPT**: para aprender, resolver dudas y planificar proyectos.
+- 🔎 **Gemini Pro**: una segunda opinión para contrastar información y soluciones.
 
 <br/>
 
@@ -139,7 +137,11 @@ Repaso para DAM y DAW: resúmenes por asignatura, glosario con flashcards, chule
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=benriosdev&theme=tokyonight&hide_border=true" width="85%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=benriosdev&locale=es&background=0F1626&border=1E3A5F&stroke=1E3A5F&ring=38A8FF&fire=38A8FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=38A8FF&sideLabels=8B949E&dates=8B949E">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=benriosdev&locale=es&background=F8FBFF&border=CFE2FF&stroke=CFE2FF&ring=1769D1&fire=1769D1&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=1769D1&sideLabels=59636E&dates=59636E">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benriosdev&locale=es&background=F8FBFF&border=CFE2FF&stroke=CFE2FF&ring=1769D1&fire=1769D1&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=1769D1&sideLabels=59636E&dates=59636E" width="85%" alt="Racha de contribuciones de benriosdev en GitHub">
+</picture>
 
 </div>
 

@@ -3,6 +3,7 @@
 // La ilustración (scripts/escritorio.webp) se recortó de la cabecera PNG anterior y va incrustada en el SVG,
 // porque un SVG mostrado como imagen no puede cargar archivos externos.
 import { readFileSync, writeFileSync } from 'node:fs';
+import { BASE, esc } from './tema.mjs';
 
 const escritorio = readFileSync(new URL('escritorio.webp', import.meta.url)).toString('base64');
 
@@ -16,10 +17,9 @@ const PERFIL = [
   ['estado', 'Disponible para colaborar'],
 ];
 
-// Mismos colores que scripts/tech-stack.mjs.
 const TEMAS = {
-  light: { panel: '#F8FBFF', borde: '#CFE2FF', texto: '#1F2328', suave: '#59636E', acento: '#1769D1', prompt: '#1A7F37' },
-  dark: { panel: '#0F1626', borde: '#1E3A5F', texto: '#E6EDF3', suave: '#8B949E', acento: '#38A8FF', prompt: '#3FB950' },
+  light: { ...BASE.light, prompt: '#1A7F37' },
+  dark: { ...BASE.dark, prompt: '#3FB950' },
 };
 
 const MONO = `ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace`;
@@ -32,8 +32,6 @@ const CARD = { x: 65, y: 115, w: 920, h: 650, rx: 24, barra: 72 };
 const ILUSTRACION = { x: 790, y: 28, w: 978, h: 849 };
 const TEXTO_X = 110;
 const TEXTO_Y = 240;
-
-const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;');
 
 function tarjeta(t) {
   const { x, y, w, h, rx, barra } = CARD;
