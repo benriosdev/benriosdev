@@ -4,15 +4,15 @@
   <img src="./images/top-img-light.svg" alt="Perfil de benriosdev: desarrollador web en formación, estudiante de DAW">
 </picture>
 
-## 🧠 Sobre mí
+## <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/sobre-mi-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./icons/sobre-mi.svg"><img src="./icons/sobre-mi.svg" width="28" alt=""></picture> Sobre mí
 
-- 🎓 Hey 👋🏼, soy Benja. **Técnico en Instalaciones de Telecomunicaciones** y actualmente estudio **Desarrollo de Aplicaciones Web (DAW)**.
+- <img src="./icons/lista/estudios.svg" width="18" alt=""> Hey 👋🏼, soy Benja. **Técnico en Instalaciones de Telecomunicaciones** y actualmente estudio **Desarrollo de Aplicaciones Web (DAW)**.
 
-- 💼 Mi experiencia trabajando en **tecnología, reparación de dispositivos y atención al cliente** me ha dado una visión práctica de las necesidades de los usuarios y de cómo resolver problemas reales.
+- <img src="./icons/lista/experiencia.svg" width="18" alt=""> Mi experiencia trabajando en **tecnología, reparación de dispositivos y atención al cliente** me ha dado una visión práctica de las necesidades de los usuarios y de cómo resolver problemas reales.
 
-- ☕ Mi punto de partida es **Java**, donde estoy construyendo fundamentos sólidos de **programación y POO**.
+- <img src="./icons/lista/java.svg" width="18" alt=""> Mi punto de partida es **Java**, donde estoy construyendo fundamentos sólidos de **programación y POO**.
 
-- ✨ Estoy ampliando mis conocimientos en **desarrollo web, programación y bases de datos**, con la vista puesta en el **desarrollo full-stack**. También estoy explorando **IA aplicada al desarrollo** y el área de **DevOps**, la cual no descarto como futura especialización.
+- <img src="./icons/lista/ampliando.svg" width="18" alt=""> Estoy ampliando mis conocimientos en **desarrollo web, programación y bases de datos**, con la vista puesta en el **desarrollo full-stack**. También estoy explorando **IA aplicada al desarrollo** y el área de **DevOps**, la cual no descarto como futura especialización.
 
 <br/>
 
@@ -20,13 +20,13 @@
 
 <br/>
 
-## 🚀 Proyectos Destacados
+## <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/destacados-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./icons/destacados.svg"><img src="./icons/destacados.svg" width="28" alt=""></picture> Proyectos Destacados
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📚 MiFP
+### <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/mifp-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./icons/mifp.svg"><img src="./icons/mifp.svg" width="24" alt=""></picture> MiFP
 
 Compañero de estudios para alumnos de FP Online: gestión de PACs, videotutorías, notas y recursos con dashboard en tiempo real. Proyecto en colaboración.
 
@@ -44,7 +44,7 @@ Compañero de estudios para alumnos de FP Online: gestión de PACs, videotutorí
 
 <td width="50%" valign="top">
 
-### 📝 Tests Interactivos App
+### <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/tests-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./icons/tests.svg"><img src="./icons/tests.svg" width="24" alt=""></picture> Tests Interactivos App
 
 Ante la falta de material didáctico actualizado para estudiantes de FP, creé una app web interactiva de tests de exámenes, facilitando el estudio y la autoevaluación.
 
@@ -64,7 +64,7 @@ Ante la falta de material didáctico actualizado para estudiantes de FP, creé u
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Portafolio Web
+### <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/portafolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./icons/portafolio.svg"><img src="./icons/portafolio.svg" width="24" alt=""></picture> Portafolio Web
 
 Portafolio personal donde muestro mi experiencia, proyectos y perfil Front-End + UI/UX.
 
@@ -82,7 +82,7 @@ Portafolio personal donde muestro mi experiencia, proyectos y perfil Front-End +
 
 <td width="50%" valign="top">
 
-### 🎓 DAX Repaso
+### <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dax-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./icons/dax.svg"><img src="./icons/dax.svg" width="24" alt=""></picture> DAX Repaso
 
 Repaso para DAM y DAW: resúmenes por asignatura, glosario con flashcards, chuletas de referencia rápida y guías de herramientas de desarrollo.
 
@@ -102,7 +102,7 @@ Repaso para DAM y DAW: resúmenes por asignatura, glosario con flashcards, chule
 
 <br/>
 
-## 📖 Proyectos de Aprendizaje
+## <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/aprendizaje-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./icons/aprendizaje.svg"><img src="./icons/aprendizaje.svg" width="28" alt=""></picture> Proyectos de Aprendizaje
 
 | Proyecto | Descripción | Tech | Acceso |
 |:---|:---|:---|:---:|
@@ -114,7 +114,7 @@ Repaso para DAM y DAW: resúmenes por asignatura, glosario con flashcards, chule
 
 <br/>
 
-## 🛠️ Mis Tecnologías / Stack
+## <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/tecnologias-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./icons/tecnologias.svg"><img src="./icons/tecnologias.svg" width="28" alt=""></picture> Mis Tecnologías / Stack
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./images/tech-stack-dark.svg">
@@ -122,18 +122,18 @@ Repaso para DAM y DAW: resúmenes por asignatura, glosario con flashcards, chule
   <img src="./images/tech-stack-light.svg" alt="Tech Stack de benriosdev">
 </picture>
 
-## 🤖 IA & herramientas de desarrollo
+## <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/ia-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./icons/ia.svg"><img src="./icons/ia.svg" width="28" alt=""></picture> IA & herramientas de desarrollo
 
-- 💻 **Antigravity**: mi IDE principal, donde desarrollo mis proyectos.
-- ☕ **IntelliJ IDEA**: para Java, practicar POO y mis proyectos en Java.
-- 🛠️ **VS Code**: para ediciones rápidas y revisar código.
-- 🤖 **Claude Code**: mi asistente en la terminal para programar y revisar proyectos sobre el repositorio.
-- 🧠 **ChatGPT**: para aprender, resolver dudas y planificar proyectos.
-- 🔎 **Gemini Pro**: una segunda opinión para contrastar información y soluciones.
+- <img src="./icons/lista/ide.svg" width="18" alt=""> **Antigravity**: mi IDE principal, donde desarrollo mis proyectos.
+- <img src="./icons/lista/java.svg" width="18" alt=""> **IntelliJ IDEA**: para Java, practicar POO y mis proyectos en Java.
+- <img src="./icons/lista/codigo.svg" width="18" alt=""> **VS Code**: para ediciones rápidas y revisar código.
+- <img src="./icons/lista/terminal.svg" width="18" alt=""> **Claude Code**: mi asistente en la terminal para programar y revisar proyectos sobre el repositorio.
+- <img src="./icons/lista/chat.svg" width="18" alt=""> **ChatGPT**: para aprender, resolver dudas y planificar proyectos.
+- <img src="./icons/lista/buscar.svg" width="18" alt=""> **Gemini Pro**: una segunda opinión para contrastar información y soluciones.
 
 <br/>
 
-## 📊 GitHub Analytics
+## <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/estadisticas-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./icons/estadisticas.svg"><img src="./icons/estadisticas.svg" width="28" alt=""></picture> GitHub Analytics
 
 <div align="center">
 
@@ -149,7 +149,7 @@ Repaso para DAM y DAW: resúmenes por asignatura, glosario con flashcards, chule
 
 <div align="center">
 
-### 🚀 **¡Gracias por visitar mi perfil y acompañarme mientras sigo aprendiendo y construyendo!**
+### **¡Gracias por visitar mi perfil y acompañarme mientras sigo aprendiendo y construyendo!**
  <img src="https://visitor-badge.laobi.icu/badge?page_id=devbenhr.devbenhr&"  />
 
 </div>
